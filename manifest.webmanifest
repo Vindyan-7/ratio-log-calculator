@@ -1,16 +1,16 @@
 {
   "name": "Ratio Log Calculator",
   "short_name": "RatioCalc",
-  "id": "/ratio-log-calculator/",
-  "start_url": "/ratio-log-calculator/",
-  "scope": "/ratio-log-calculator/",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
   "display": "standalone",
   "background_color": "#f7f6f2",
   "theme_color": "#01696f",
   "description": "Offline-ready ratio calculator with saved history.",
   "icons": [
     {
-      "src": "/ratio-log-calculator/assets/icon.svg",
+      "src": "./assets/icon.svg",
       "sizes": "any",
       "type": "image/svg+xml",
       "purpose": "any"
